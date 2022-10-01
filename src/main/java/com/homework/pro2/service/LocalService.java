@@ -14,7 +14,7 @@ package com.homework.pro2.service;
  *  * Modification History:
  *  * Date         Author          Version            Description
  *  *-----------------------------------------------------------------------------------------
- *  * 2020/5/31         luhj                            ——
+ *  * 2020/5/31         luhj                            ——1
  */
 public class LocalService {
 }
